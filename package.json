@@ -4,7 +4,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"description": ["Program Development", "Back End Development"],
+	"keywords": ["Program Development", "Back End Development"],
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
